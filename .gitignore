@@ -1,0 +1,23 @@
+# Dépendances
+/vendor/
+
+# Environnement
+.env
+
+# Logs
+*.log
+
+# Cache
+/cache
+/tmp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Docker
+*.tar
