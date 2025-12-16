@@ -1,23 +1,7 @@
-# Dépendances
 /vendor/
-
-# Environnement
+/node_modules/
 .env
-
-# Logs
-*.log
-
-# Cache
-/cache
-/tmp
-
-# OS
-.DS_Store
-Thumbs.db
-
-# IDE
-.vscode/
+.env.local
 .idea/
-
-# Docker
-*.tar
+.vscode/
+*.log
